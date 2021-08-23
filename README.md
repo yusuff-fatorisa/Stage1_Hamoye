@@ -12,5 +12,5 @@ It contains the actual data with which you will work with and understand the con
 3. "describe_na.py" is a python file that contains a custom defined function which I used in the notebook
 You will need it at some point in the notebook, hence, ensure you download it.
 
-4. 3. "display_duplicates.py" is another python file that contains a custom defined function which I used in the notebook
+4. "display_duplicates.py" is another python file that contains a custom defined function which I used in the notebook
 You will need it,as well, at some point in the notebook, hence, ensure you download it.
